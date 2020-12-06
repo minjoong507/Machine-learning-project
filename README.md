@@ -1,4 +1,4 @@
-# 4학년 2학기 머신러닝 프로젝트
+# Machine Learning Project, 2020, CAU
 
 - 머신러닝 프로젝트 과제파일 입니다.
 
